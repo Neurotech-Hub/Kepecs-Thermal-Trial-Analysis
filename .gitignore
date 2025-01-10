@@ -1,0 +1,45 @@
+# MATLAB generated files
+*.mat
+*.asv
+*.bin
+*.tmjsn
+
+# MATLAB autosave files
+*.m~
+
+# MATLAB compiled files
+*.mex*
+*.mlx
+*.p
+*.slx.autosave
+*.slxc
+
+# MATLAB app designer files
+*.mlapp
+*.prj
+
+# MATLAB code generation folders
+codegen/
+slprj/
+sccprj/
+
+# MATLAB Simulink cache files
+*.slxc
+
+# MATLAB crash dumps
+*.mdmp
+
+# MATLAB preferences
+*.settings
+
+# MATLAB Project
+*.prj
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
