@@ -20,7 +20,7 @@ Visualization of the thermal frames after normalization using the ROI temperatur
 ![Normalized Frames](./images/normalized_frames.png)
 
 ### 4. Blob Detection Steps
-Diagnostic visualization showing the steps of heat blob detection:
+Diagnostic visualization showing the steps of heat blob (ie, mouse) detection:
 - Original temperature data
 - ROI mask showing excluded regions
 - Temperature threshold mask
@@ -28,6 +28,6 @@ Diagnostic visualization showing the steps of heat blob detection:
 ![Blob Detection Steps](./images/blob_detection_steps_frame.png)
 
 ### 5. Heat Blob Evolution
-Final visualization showing the evolution of detected heat blobs over time, with temperature represented by both height and color. Each subplot includes the blob's mean temperature and corresponding internal body temperature.
+Final visualization showing the evolution of detected heat blobs (ie, mouse) over time, with temperature represented by both height and color. Each subplot includes the blob's mean temperature and corresponding internal body temperature.
 ![Heat Blob Evolution](./images/heat_blob_evolution.png)
 

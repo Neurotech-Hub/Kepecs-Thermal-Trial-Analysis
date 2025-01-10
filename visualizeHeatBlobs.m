@@ -16,7 +16,7 @@ function visualizeHeatBlobs(blobMasks, blobTemps, frameTimes, body_temp_datetime
     end
     
     % Calculate subplot layout
-    numCols = min(4, numValidFrames);
+    numCols = 2;
     numRows = ceil(numValidFrames / numCols);
     
     % Create figure
