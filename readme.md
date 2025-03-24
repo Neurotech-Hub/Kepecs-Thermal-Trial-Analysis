@@ -27,7 +27,11 @@ Diagnostic visualization showing the steps of heat blob (ie, mouse) detection:
 - Final detected blob with temperature values
 ![Blob Detection Steps](./images/blob_detection_steps_frame.png)
 
-### 5. Heat Blob Evolution
+### 5. Blob Movement Detector
+Psuedo actigram based on Euclidean distance of subsequent blob centroids.
+![Activity Monitor](./images/blob_movement.png)
+
+### 6. Heat Blob Evolution
 Final visualization showing the evolution of detected heat blobs (ie, mouse) over time, with temperature represented by both height and color. Each subplot includes the blob's mean temperature and corresponding internal body temperature.
 ![Heat Blob Evolution](./images/heat_blob_evolution.png)
 
