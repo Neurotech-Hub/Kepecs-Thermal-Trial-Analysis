@@ -34,4 +34,3 @@ Psuedo actigram based on Euclidean distance of subsequent blob centroids.
 ### 6. Heat Blob Evolution
 Final visualization showing the evolution of detected heat blobs (ie, mouse) over time, with temperature represented by both height and color. Each subplot includes the blob's mean temperature and corresponding internal body temperature.
 ![Heat Blob Evolution](./images/heat_blob_evolution.png)
-
